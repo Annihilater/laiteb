@@ -1,2 +1,2 @@
 aiowebsocket==1.0.0.dev2
-certifi==2019.11.28
+certifi==2022.12.7
